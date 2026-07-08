@@ -1,0 +1,6 @@
+{
+  "name": "ALICE Kernel Developer CLI",
+  "description": "High-fidelity command-line dashboard and code synthesizer running the LAVACAKE 0.1 algorithm for operating system and kernel engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
