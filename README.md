@@ -14,8 +14,8 @@ Deploy the fully standalone, local ALICE terminal interface to your local Linux 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/whatsmyageagain48/alice-cli-lavacake.git
-cd alice-cli-lavacake
+git clone https://github.com/Sauceyy909/ALICE.AI.git
+cd ALICE.AI
 ```
 
 ### 2. Compile the Binary
